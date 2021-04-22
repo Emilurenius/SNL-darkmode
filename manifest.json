@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "SNL darkmode",
+    "version": "0.1",
+    "description": "Mørk modus for Store norske Leksikon, så du kan researche hele natta!",
+    "content_scripts": [
+        {
+            "matches": ["https://snl.no/*"],
+            "js": ["snlDarkmode.js"]
+        }
+    ],
+    "permissions": ["activeTab"]
+}
