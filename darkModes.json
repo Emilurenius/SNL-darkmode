@@ -1,0 +1,46 @@
+{
+    "https://snl.no": {
+        "0": {
+            "type": "tag",
+            "name": "body",
+            "color": "#ffffff",
+            "background": "#2c2a36"
+        },
+        "1": {
+            "type": "tag",
+            "name": "a",
+            "color": "#ff991c",
+            "background": false
+        },
+        "2": {
+            "type": "class",
+            "name": "factbox",
+            "color": false,
+            "background": "#55506e"
+        },
+        "3": {
+            "type": "class",
+            "name": "picture picture--zoomable",
+            "color": false,
+            "background": "#55506e"
+        },
+        "4": {
+            "type": "class",
+            "name": "picture",
+            "color": false,
+            "background": "#55506e"
+        },
+        "5": {
+            "type": "class",
+            "name": "gallery",
+            "color": false,
+            "background": "#251f40"
+        },
+        "6": {
+            "type": "class",
+            "name": "l-footer l-footer--snl",
+            "color": false,
+            "background": "#251f40"
+        }
+    }
+}
