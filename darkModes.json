@@ -42,5 +42,31 @@
             "color": false,
             "background": "#251f40"
         }
+    },
+    "https://www.duolingo.com": {
+        "0": {
+            "type": "class",
+            "name": "_2rYrl",
+            "color": false,
+            "background": "#232b2e"
+        },
+        "1": {
+            "type": "class",
+            "name": "_1YfQ8",
+            "color": false,
+            "background": "#232b2e"
+        },
+        "2": {
+            "type": "class",
+            "name": "_3YEom",
+            "color": false,
+            "background": "#232b2e"
+        },
+        "3": {
+            "type": "class",
+            "name": "fs-unmask",
+            "color": false,
+            "background": "#232b2e"
+        }
     }
 }
